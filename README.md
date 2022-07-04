@@ -21,6 +21,9 @@ First, I will be explaining the election audit results in the below bullet point
     Winner: Diana DeGette
     Winning Vote Count: 272,892
     Winning Percentage: 73.8%
+    
+    
+    
 ![image](https://user-images.githubusercontent.com/106784795/177198688-e03977f3-7aae-419c-a4ce-c72eeb82f2f8.png)
 
 
